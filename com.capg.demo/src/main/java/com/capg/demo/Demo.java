@@ -4,6 +4,7 @@ public class Demo {
 
 	public static void main(String[] args) {
 		Double str=0.0;
+		System.out.println("Hi");
 		if(str==0)
 		{
 			System.out.println("equal");
